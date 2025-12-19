@@ -1,0 +1,12 @@
+.mypy_cache/
+.pytest_cache/
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- Environments ---
+env/
+venv/
+.env
+.venv
