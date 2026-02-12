@@ -304,7 +304,7 @@ DISEASE_META = {
         "color": "#f0c040",
         "icon": "⚡",
         "cause": "Viral — transmitted by the leafhopper Cicadulina mbila. Pale spots on youngest leaves merge into yellow streaks along veins.",
-        "action": "No chemical cure. Control leafhopper vectors with imidacloprid. Plant resistant varieties (e.g. SEEDCO SC403). Rogue infected plants early.",
+        "action": "No chemical cure. Control leafhopper vectors with imidacloprid. Plant resistant varieties (e.g. SEEDCO SC403).",
         "yield_risk": "Up to 100% yield loss in severe cases",
     },
     "healthy_maize": {
