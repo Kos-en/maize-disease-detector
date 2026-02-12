@@ -1,0 +1,15 @@
+{
+  "thresh_mild": 0.5186374664010596,
+  "thresh_moderate": 0.6148835099315068,
+  "weights": {
+    "Necrotic_Area": 0.2,
+    "Chlorosis_Intensity": 0.15,
+    "Texture_Roughness": 0.1,
+    "Chloro_x_Necrotic": 0.1,
+    "Visual_Distress": 0.1,
+    "Infected_Distribution": 0.1,
+    "Lesion_Distribution": 0.05,
+    "Patchiness": 0.05,
+    "Green_Yellow_Ratio": -0.15
+  }
+}

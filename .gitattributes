@@ -1,1 +1,6 @@
-*.pt filter=lfs diff=lfs merge=lfs -text
+# Track your deployment binaries using Git LFS
+weights/*.onnx filter=lfs diff=lfs merge=lfs -text
+weights/*.joblib filter=lfs diff=lfs merge=lfs -text
+
+# Keep your column layouts handled as text
+weights/*.csv text eol=lf
